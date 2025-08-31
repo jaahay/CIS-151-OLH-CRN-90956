@@ -9,11 +9,11 @@ Service resumed at around 9am that same morning, lapsing approximately 6 hours.
 3) How did commuters get across the bay?  (list at least 2 ways)
 
 4) What was done to restore service?
-The whole entire network system was taken offline due to a faulty, redundant piece of network cabling. By unplugging 
+The whole entire network system was taken offline due to a faulty, redundant piece of the networking system. Network monitoring services were taken offline. During the incident a specific piece of hardware was determined to be flooding the system and subsequently unplugged. This worked and service resumed.
 
 
 5) What does management need to do to avoid this from happening again? (long term fix)?
-Based upon an analysis performed by a third-party, it is important that track switch control systems are correctly configured so that this issue may not happen again. 
-Several new network switches were configured to mitigate further issues.
+Based upon an analysis performed by a third-party, it is important that track switch control systems are correctly configured so that this issue may not happen again. Several new network switches were configured to mitigate further issues.
 
-"this was not an issue with the train control system, it was an issue with computer topography and the ability to see and control the train control system."
+
+"This was not an issue with the train control system, this was an issue with computer topography and the ability to see and control the train control system."
