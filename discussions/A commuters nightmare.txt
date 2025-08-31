@@ -1,13 +1,12 @@
 Taken from https://www.bart.gov/news/articles/2025/news20250509 and the attached recording of the board of directions https://www.youtube.com/watch?v=51bdzEkVjyQ.
 
 1) What time did the system go down?
-In the morning of May 9th, 2025 the BART system went down.
+In the morning of May 9th, 2025 the BART system went down. At about 3am, operations control center noticed intermittent visibility of computer systems on the network. BART issued its first service advisory at 4:30am.
 
 2) How long was it down for?
-BART issued its first service advisory at 4:30am and resumed at around 9am that same morning.
+Service resumed at around 9am that same morning, lapsing approximately 6 hours.
 
 3) How did commuters get across the bay?  (list at least 2 ways)
-
 
 4) What was done to restore service?
 The whole entire network system was taken offline due to a faulty, redundant piece of network cabling. By unplugging 
