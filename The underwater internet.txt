@@ -1,0 +1,12 @@
+Countries, companies and culture all heavily depend on the internet for connectivity. We have come to rely upon instant connectivity, for example, social interactions via social media and entertainment. Companies also rely on the internet for conducting transactions - banking and crediting services would crash causing panic and chaos. However, my biggest concern would be for politics. Petty and grand crimes would go unchecked. Would the judicial system flop? Yet my ultimate concern would be at the geopolitical level where we would have no transparency at all at what foreign nations may be up to. Terrorism? Mass destruction? Warfare?
+
+"Submarine cables break all the time. On average, two to four break somewhere in the world every week." This is according to a blog postLinks to an external site. from TeleGeography. And Pivit reportsLinks to an external site. that "on average, a company experiences five network outages each year," citingLinks to an external site. GlobeNewswire by notified. Network outages tend to be between 30 and 45 minutes.
+
+According to a postingLinks to an external site. by policy interns, maintenance fees alone can cost upwards of $100 million dollars to the U.S. - operational costs may be upwards of $100 billion dollars per year.
+
+1.5 million kilometers is roughly 9 million miles of cabling.
+
+https://blog.telegeography.com/what-to-know-about-submarine-cable-breaks
+https://info.pivitglobal.com/blog/cost-of-downtime
+https://www.globenewswire.com/news-release/2019/09/24/1919728/0/en/New-Study-Reveals-that-96-of-Enterprises-Face-Costly-IT-Outages-Though-IT-Says-51-of-Downtime-Is-Avoidable.html
+https://policyinterns.com/2025/07/31/cost-of-submarine-cable-disruptions-in-us/
