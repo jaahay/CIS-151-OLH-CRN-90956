@@ -16,5 +16,6 @@ The whole entire network system was taken offline due to a faulty, redundant pie
 
 5) What does management need to do to avoid this from happening again? (long term fix)?
 Based upon an analysis performed by a third-party, it is important that track switch control systems are correctly configured so that this issue may not happen again. Several new network switches were configured to mitigate further issues.
+Several options need to vetted for better mitigation of such problems. The Metropolitan Transportation Commission (MTC) should be contacted to discuss more service interruption communications. BART's alternatives service should be sensitive to traffic load to better make suggestions based on service contention.
 
 "This was not an issue with the train control system, this was an issue with computer topography and the ability to see and control the train control system."
