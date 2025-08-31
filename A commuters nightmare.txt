@@ -1,0 +1,17 @@
+Discussion - A commuters nightmare
+Sometimes we take for granted how networks can impact our lives, especially when there is an outage. Earlier this year, it was a commuters nightmare when B.A.R.T announced the system was completely down. We rely a lot on our grids like the transportation, energy and financial sectors to be up and running 24/7.  Your mission is to research what happened and answer the following questions: 
+1) What time did the system go down?
+
+2) How long was it down for?
+
+3) How did commuters get across the bay?  (list at least 2 ways)
+
+4) What was done to restore service?
+
+5) What does management need to do to avoid this from happening again? (long term fix)? 
+
+Post your analysis, then reply to two students for full credit.
+
+Check out this video on technical issues at the Newark Airport that was reported on 5/11/2025.
+
+Another Newark airport equipment outage grounds flights
